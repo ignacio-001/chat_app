@@ -14,17 +14,24 @@ This app can be used to chat with people in group.
 4. Now you can start chatting.
 
 ## Dependencies
--Express
--Node
--socket.io
--socket.io-client
--react-scroll-to-bottom
+ - Express
+ - Node
+ - socket.io
+ - socket.io-client
+ - react-scroll-to-bottom
 
 How the app looks like.
 
 ![image](https://user-images.githubusercontent.com/67832437/179364512-107e513f-a1ba-4d5c-8366-d2e602784e09.png)
-Sender
+
+
+##Sender
+
+
 ![image](https://user-images.githubusercontent.com/67832437/179364657-cd1b022c-cb80-4ea3-8d4e-53812e05c6a9.png)
-Receiver
+
+##Receiver
+
+
 ![image](https://user-images.githubusercontent.com/67832437/179364694-48b4dc2d-0a6b-40cd-bbe6-975fe3cb9902.png)
 
